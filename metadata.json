@@ -1,0 +1,6 @@
+{
+  "name": "Voice Assistant",
+  "description": "Production-quality AI voice assistant for alarms, timers, reminders, calendar, calling, and queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
